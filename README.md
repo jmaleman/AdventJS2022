@@ -1,4 +1,4 @@
-# adventjs2022
+# AdventJS2022 by @midudev
 
 Enlace al evento: [AdventJS2022](https://adventjs.dev/es)
 
